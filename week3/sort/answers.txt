@@ -1,0 +1,11 @@
+\sort1 uses: Bubble Sort
+
+How do you know?: It is the only one that gave data varied data dependent on the way the list was initially sorted
+
+sort2 uses: Merge Sort
+
+How do you know?: It had similar data if it had the same length and was not as affected by length as sort 3
+
+sort3 uses: Selection Sort
+
+How do you know?: Similar data w/ same length, but it is highly affected by time b/c of n^2
